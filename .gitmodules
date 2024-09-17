@@ -1,0 +1,3 @@
+[submodule "AuctionSvc"]
+	path = AuctionSvc
+	url = C:UsersUserDocumentsMyNewProjectsCarsAppAuctionSvc
